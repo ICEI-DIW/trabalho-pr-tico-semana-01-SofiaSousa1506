@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Sofia Sousa Da Silva
+Matricula: 889246
 
 ## Tela de inspeção com navegador
-
+![Tela de inspeção](Inspeção.jpeg)
 
 ## Tela de projeto no Replit
-
+![Tela de projeto do replit](<Replit (2).jpeg>)
