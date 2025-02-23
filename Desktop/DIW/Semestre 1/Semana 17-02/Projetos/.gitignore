@@ -1,5 +1,5 @@
-# Ignorar pastas e arquivos de configurações e do sistema
-.docker/
+# Ignorar diretórios de sistema e arquivos temporários
+. docker/
 .dotnet/
 .gitconfig
 .gradle/
@@ -7,12 +7,20 @@
 .m2/
 .nbi/
 .vscode/
-
-# Ignorar arquivos do usuário
 3D Objects/
 AppData/
 Application Data/
 Contacts/
+ATP/
+CURSO GIBBS/
+Semana 10-02/Projetos/Semana 10-02.docx
+Semana 17-02.docx
+Filosofia/
+IAC/
+Sofia - Chrome.lnk
+TS4_x64 - Atalho.lnk
+desktop.ini
+gibbs.html
 Documents/
 Downloads/
 Favorites/
@@ -20,27 +28,15 @@ IntelGraphicsProfiles/
 Links/
 Music/
 NTUSER.DAT
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
 OneDrive/
 Pictures/
-Saved Games/
 Searches/
 Videos/
-
-# Ignorar arquivos temporários do Windows
-desktop.ini
+github-classroom/
 ntuser.dat.LOG1
 ntuser.dat.LOG2
 ntuser.ini
-Ignorar arquivos específicos de outros projetos:
-plaintext
-Copiar
-Editar
-# Ignorar documentos e arquivos específicos
-Semana 10-02/Projetos/Semana 10-02.docx
-Semana 17-02.docx
-gibbs.html
-Ignorar pastas e arquivos do GitHub Classroom:
-plaintext
-Copiar
-Editar
-github-classroom/
+trabalho-pr-tico-semana-02-SofiaSousa1506/
