@@ -1,0 +1,46 @@
+# Ignorar pastas e arquivos de configurações e do sistema
+.docker/
+.dotnet/
+.gitconfig
+.gradle/
+.lesshst
+.m2/
+.nbi/
+.vscode/
+
+# Ignorar arquivos do usuário
+3D Objects/
+AppData/
+Application Data/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+NTUSER.DAT
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignorar arquivos temporários do Windows
+desktop.ini
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+Ignorar arquivos específicos de outros projetos:
+plaintext
+Copiar
+Editar
+# Ignorar documentos e arquivos específicos
+Semana 10-02/Projetos/Semana 10-02.docx
+Semana 17-02.docx
+gibbs.html
+Ignorar pastas e arquivos do GitHub Classroom:
+plaintext
+Copiar
+Editar
+github-classroom/
